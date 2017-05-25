@@ -16,5 +16,5 @@ jasmine-node  index_spec.js  --junitreport --output reports
  
 node xunit.js
 
-# Need Help with Frisby ?
+# Need help with Frisby ?
 https://www.npmjs.com/package/frisby
