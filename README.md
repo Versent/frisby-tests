@@ -15,3 +15,6 @@ jasmine-node  index_spec.js  --junitreport --output reports
 # How to generate report in HTML format ?
  
 node xunit.js
+
+# Need Help with Frisby ?
+https://www.npmjs.com/package/frisby
